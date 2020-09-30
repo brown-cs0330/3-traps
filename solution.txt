@@ -1,0 +1,1 @@
+Write your solution for each trap in this file! (Delete this line once you start)
